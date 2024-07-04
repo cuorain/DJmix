@@ -1,0 +1,7 @@
+from_id	to_id	next_cue_point	next_track_start	previous_track_end	transition_type	rating
+5	4	B	E	E	CICO	5
+4	28	B	D	E	FIFO	4
+28	8	A	D	E	FIFO	3
+28	8	A	D	E	CIFO	3
+28	8	B	D	E	FIFO	3
+28	8	B	D	D	CICO	3
